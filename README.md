@@ -17,8 +17,24 @@ Live fitness apparel store built and customized using Shopify by **Ayush Behera*
 ---
 
 ## 🖼️ Screenshots
+### Homepage
+![Homepage](homepage.png)
 
-> Add screenshots below after uploading (see Part 3)
+### Homepage2
+![Homepage2](homepage2.png)
+
+### Product Page
+![Product Page](productpage.png)
+
+### Cart Page
+![Cart Page](cartpage.png)
+
+### Checkout Page
+![Checkout Page](checkoutpage.png)
+
+### Footer Page
+![Footer Page](footer.png)
+
 ---
 
 ## 📦 Tech Stack
